@@ -1,5 +1,11 @@
 # ElementPOC2
 
+This has the bare minimum required to take a 'new' project and convert it to an element.
+The second commit shows what was changed to make it an element.
+
+Note: angular.json was modified to dist into a POC AngularJS project
+run `ng build`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
